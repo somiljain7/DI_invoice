@@ -1,8 +1,3 @@
-# pip install langchain unstructured[pdf, image] pandas pi_heif unstructured_inference , pdf2image,unstructured_paddleocr
-#pip install "pdfminer.six<20221105"
-#pip install transformers[sentencepiece]
-#uvicorn
-#fastapi
 import os
 from langchain.document_loaders import UnstructuredImageLoader
 import pandas as pd

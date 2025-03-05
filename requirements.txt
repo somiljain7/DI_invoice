@@ -1,0 +1,11 @@
+langchain 
+unstructured[pdf, image]
+pandas 
+pi_heif 
+unstructured_inference 
+pdf2image
+unstructured_paddleocr
+pdfminer.six<20221105
+transformers[sentencepiece]
+uvicorn
+fastapi
